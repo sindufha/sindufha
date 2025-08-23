@@ -13,27 +13,18 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<table>
-<tr>
-<td>
+> **"Code is poetry written in logic"**
 
-**👨‍💻 Profile**
-- **Name:** Sindhu
-- **Role:** Full Stack Developer
-- **Focus:** Building Apps until I can upload it to Play Store
-- **Motto:** Code 24/7
+**🚀 Quick Intro:**
+- 👨‍💻 **Full Stack Developer** passionate about creating amazing digital experiences
+- 🎨 **UI/UX Enthusiast** who believes in pixel-perfect design
+- ☕ **Coffee-powered** coding sessions are my daily fuel
+- 🌟 **Always learning** new technologies and best practices
 
-</td>
-<td>
-
-**🎯 Current Status**
-- Working on: Android apps
-- Learning: Kotlin, flutter, python
-- Passionate about: Great UX (im zero creative on the UI XD)
-- Daily: ☕ → 💻 → 🎵 → slept
-
-</td>
-</tr>
-</table>
+**📍 Current Status:**
+- 🎯 Working on: Next.js applications
+- 🌱 Learning: TypeScript & GraphQL  
+- 💝 Focus: Creating seamless user experiences
+- 🎨 Hobbies: Digital art, photography, music
 
 <br clear="right"/>
