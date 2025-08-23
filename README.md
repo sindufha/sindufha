@@ -21,3 +21,16 @@ const developer = {
     currentFocus: "Building scalable applications",
     dailyRoutine: ["☕ Coffee", "💻 Code", "🎵 Music", "🌟 Dream"]
 };
+
+🎯 Currently working on: Next.js applications
+🌱 Learning: TypeScript & GraphQL
+💝 Passionate about: Creating seamless user experiences
+🎨 Hobbies: Digital art, photography, music
+<br clear="right"/>
+📊 Analytics
+<div align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&custom_title=GitHub%20Analytics&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=gradient&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&langs_count=6"/>
+</div>
+🛠️ Tech Stack
+<div align="center">
