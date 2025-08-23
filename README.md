@@ -13,14 +13,27 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-**👨‍💻 Developer Profile:**
-- **Name:** Your Name
-- **Role:** Full Stack Developer  
-- **Passions:** Clean Code, UI/UX, Innovation
-- **Current Focus:** Building scalable applications
-- **Daily Routine:** ☕ Coffee → 💻 Code → 🎵 Music → 🌟 Dream
+<table>
+<tr>
+<td>
 
-- 🎯 **Currently working on**: Next.js applications
-- 🌱 **Learning**: TypeScript & GraphQL
-- 💝 **Passionate about**: Creating seamless user experiences
-- 🎨 **Hobbies**: Digital art, photography, music
+**👨‍💻 Profile**
+- **Name:** Sindhu
+- **Role:** Full Stack Developer
+- **Focus:** Building Apps until I can upload it to Play Store
+- **Motto:** Code 24/7
+
+</td>
+<td>
+
+**🎯 Current Status**
+- Working on: Android apps
+- Learning: Kotlin, flutter, python
+- Passionate about: Great UX (im zero creative on the UI XD)
+- Daily: ☕ → 💻 → 🎵 → slept
+
+</td>
+</tr>
+</table>
+
+<br clear="right"/>
