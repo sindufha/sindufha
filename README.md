@@ -53,7 +53,7 @@
 | **Total Issues** | ![Issues](https://img.shields.io/badge/Issues-0-red?style=flat-square) | 🐛 Problems solved |
 | **Contributed to (last year)** | ![Contributions](https://img.shields.io/badge/Repos-0-purple?style=flat-square) | 🤝 Open source |
 | **Followers** | ![Followers](https://img.shields.io/github/followers/sindufha?style=flat-square&color=orange) | 👥 Community |
-| **Following** | ![Following](https://img.shields.io/badge/Following-16-lightgrey?style=flat-square) | 🔗 Network |
+| **Following** | ![Following](https://img.shields.io/badge/Following-1-lightgrey?style=flat-square) | 🔗 Network |
 
 </div>
 
