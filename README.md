@@ -47,12 +47,12 @@
 
 | 📊 **Metric** | 📈 **Value** | 🎯 **Details** |
 |:---:|:---:|:---:|
-| **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/YourUsername?style=flat-square&color=yellow) | ⭐ Community appreciation |
-| **Total Commits (2025)** | ![Commits](https://img.shields.io/badge/dynamic/json?style=flat-square&color=blue&label=commits&query=%24.total_commits&url=https%3A%2F%2Fapi.github.com%2Fusers%2FYourUsername) | 💻 This year activity |
+| **Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/sindufha?style=flat-square&color=yellow) | ⭐ Community appreciation |
+| **Total Commits (2025)** | ![Commits](https://img.shields.io/badge/dynamic/json?style=flat-square&color=blue&label=commits&query=%24.total_commits&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsindufha) | 💻 This year activity |
 | **Total PRs** | ![PRs](https://img.shields.io/badge/PRs-0-green?style=flat-square) | 🔄 Pull requests |
 | **Total Issues** | ![Issues](https://img.shields.io/badge/Issues-0-red?style=flat-square) | 🐛 Problems solved |
 | **Contributed to (last year)** | ![Contributions](https://img.shields.io/badge/Repos-0-purple?style=flat-square) | 🤝 Open source |
-| **Followers** | ![Followers](https://img.shields.io/github/followers/YourUsername?style=flat-square&color=orange) | 👥 Community |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/sindufha?style=flat-square&color=orange) | 👥 Community |
 | **Following** | ![Following](https://img.shields.io/badge/Following-16-lightgrey?style=flat-square) | 🔗 Network |
 
 </div>
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&bg_color=30,e96443,904e95&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true&custom_title=Monthly%20Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sindufha&theme=react-dark&bg_color=30,e96443,904e95&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true&custom_title=Monthly%20Contribution%20Activity"/>
 
 </div>
 
@@ -69,6 +69,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=gradient&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&langs_count=8&custom_title=Most%20Used%20Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindufha&layout=compact&theme=gradient&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&langs_count=8&custom_title=Most%20Used%20Languages"/>
 
 </div>
