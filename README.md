@@ -34,10 +34,10 @@
 <div align="center">
 
 ### 🏆 GitHub Overview Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&custom_title=GitHub%20Overview&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sindufha&show_icons=true&theme=gradient&include_all_commits=true&count_private=true&custom_title=GitHub%20Overview&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff"/>
 
 ### 📈 Contribution Stats  
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=gradient&hide_border=true&background=30,904e95,e96443&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&sideLabels=fff&currStreakNum=fff&sideNums=fff&border=fff"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sindufha&theme=gradient&hide_border=true&background=30,904e95,e96443&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&sideLabels=fff&currStreakNum=fff&sideNums=fff&border=fff"/>
 
 </div>
 
