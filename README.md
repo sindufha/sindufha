@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sindufha/sindufha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hello%20World!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Sindhu
+### 🎨 Creative Developer & Digital Artist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Welcome+to+my+creative+space;Where+code+meets+art;Building+beautiful+experiences" alt="Typing SVG" />
+
+</div>
+
+## 🌈 About Me
+
+<img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+```typescript
+const developer = {
+    name: "Your Name",
+    role: "Full Stack Developer",
+    passions: ["Clean Code", "UI/UX", "Innovation"],
+    currentFocus: "Building scalable applications",
+    dailyRoutine: ["☕ Coffee", "💻 Code", "🎵 Music", "🌟 Dream"]
+};
