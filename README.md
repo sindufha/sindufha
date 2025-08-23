@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hello%20World!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
 # 👋 Hi, I'm Sindhu
 ### 🎨 Creative Developer & Digital Artist
 
