@@ -7,6 +7,28 @@
 
 </div>
 
+## 🌐 Find Me Online
+
+<div align="center">
+
+### 🚀 Portfolio & Projects
+[![Portfolio Website](https://img.shields.io/badge/🌟_Portfolio-Visit_My_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://sindufha.web.app)
+
+### 💼 Professional Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindufha)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sindufha111@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download_PDF-4CAF50?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://yourresume.pdf)
+
+### 🔗 Quick Connect
+| Platform | Link | Description |
+|:--------:|:----:|:-----------:|
+| 🌍 **Website** | [sindhu.dev](https://sindufha.web.app) | Personal portfolio & blog |
+| 💻 **GitHub** | [@sindufha](https://github.com/sindufha) | Source code & projects |
+| 🎯 **LinkedIn** | [/in/sindufha](https://linkedin.com/in/sindufha) | Professional network |
+| 📧 **Email** | [hello@sindhu.dev](mailto:sindufha111@gmail.com) | Get in touch |
+
+</div>
+
 ## 🌈 About Me
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
@@ -14,7 +36,7 @@
 > **"Code is poetry written in logic"**
 
 **🚀 Quick Intro:**
-- 👨‍💻 **Full Stack Developer** passionate about creating amazing application
+- 👨‍💻 **Full Stack Developer** passionate about creating amazing applications
 - 🎨 **UI/UX Enthusiast** who believes in pixel-perfect design
 - ☕ **Coffee-powered** coding sessions are my daily fuel
 - 🌟 **Always learning** new technologies and best practices
@@ -58,15 +80,22 @@
 ### 📅 Monthly Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sindufha&theme=react-dark&bg_color=30,e96443,904e95&color=fff&line=fff&point=fff&area=true&area_color=fff&hide_border=true&custom_title=Monthly%20Contribution%20Activity"/>
-
 </div>
 
 ### 🎯 Programming Languages Breakdown
 
 <div align="center">
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindufha&layout=compact&theme=gradient&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&langs_count=8&custom_title=Most%20Used%20Languages"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💝 Thanks for visiting my profile!
+**Let's connect and build something amazing together! 🚀**
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=sindufha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
