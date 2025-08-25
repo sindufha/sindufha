@@ -12,7 +12,7 @@
 <div align="center">
 
 ### 🚀 Portfolio & Projects
-[![Portfolio Website](https://img.shields.io/badge/🌟_Portfolio-Visit_My_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://sindufha.web.app)
+[![Portfolio Website](https://img.shields.io/badge/🌟_Portfolio-Visit_My_Website-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://sindufha.vercel.app/)
 
 ### 💼 Professional Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sindufha)
@@ -22,7 +22,7 @@
 ### 🔗 Quick Connect
 | Platform | Link | Description |
 |:--------:|:----:|:-----------:|
-| 🌍 **Website** | [sindhu.dev](https://sindufha.web.app) | Personal portfolio & blog |
+| 🌍 **Website** | [sindhu.dev](https://sindufha.vercel.app/) | Personal portfolio & blog |
 | 💻 **GitHub** | [@sindufha](https://github.com/sindufha) | Source code & projects |
 | 🎯 **LinkedIn** | [/in/sindufha](https://linkedin.com/in/sindufha) | Professional network |
 | 📧 **Email** | [hello@sindhu.dev](mailto:sindufha111@gmail.com) | Get in touch |
