@@ -14,7 +14,7 @@
 > **"Code is poetry written in logic"**
 
 **🚀 Quick Intro:**
-- 👨‍💻 **Full Stack Developer** passionate about creating amazing digital experiences
+- 👨‍💻 **Full Stack Developer** passionate about creating amazing application
 - 🎨 **UI/UX Enthusiast** who believes in pixel-perfect design
 - ☕ **Coffee-powered** coding sessions are my daily fuel
 - 🌟 **Always learning** new technologies and best practices
