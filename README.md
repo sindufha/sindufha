@@ -86,7 +86,7 @@
 ### 🎯 Programming Languages Breakdown
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindufha&layout=compact&theme=gradient&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&langs_count=8&custom_title=Most%20Used%20Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindu&layout=compact&theme=gradient&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&langs_count=8&custom_title=Most%20Used%20Languages"/>
 </div>
 
 ---
