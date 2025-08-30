@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Sindhu
-### 🎨 Creative Developer & Digital Artist
+### 🎨 Junior Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Welcome+to+my+creative+space;Where+code+meets+art;Building+beautiful+experiences" alt="Typing SVG" />
 
